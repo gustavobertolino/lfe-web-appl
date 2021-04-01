@@ -6,5 +6,3 @@
 
 (defun give-double-number [number]
   (* 2 number))
-
-(lists:foldl/3)
